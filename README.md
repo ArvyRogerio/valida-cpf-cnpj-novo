@@ -1,4 +1,4 @@
-Validação de CPF e CNPJ do Brasil
+## Validação de CPF e CNPJ do Brasil ##
 
 A validação de CNPJ já inclui o novo formato de Julho/2026 que permite caracteres nas primeiras 9 posições.
 
@@ -8,4 +8,4 @@ ValidaCPNJ('12.ABC.345/01DE-35')
 
 Retorna "true" se for válido e "false" se inválido.
 
-Te ajudou? Me paga um cafezinho de R$ 5,00 para a chave "pix @ arvy.com.br" 😎
+Te ajudou? Me paga um cafezinho de R$ 5,00 para a chave _"pix @ arvy.com.br"_ 😎
