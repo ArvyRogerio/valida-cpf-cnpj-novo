@@ -8,4 +8,4 @@ ValidaCPNJ('12.ABC.345/01DE-35')
 
 Retorna "true" se for válido e "false" se inválido.
 
-Te ajudou? Me paga um cafezinho de R$ 5,00 para pix@arvy.com.br 😎
+Te ajudou? Me paga um cafezinho de R$ 5,00 para a chave "pix @ arvy.com.br" 😎
